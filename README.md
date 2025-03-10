@@ -1,7 +1,6 @@
 ### About me
 
-My name is Altamash and I'm a Student at IIT Madras Certification Program, from Aurangabad.
+My name is Altamash and I'm a Student at Shreeyash College of Engineering and Technology, from Aurangabad.
 
-📚 I'm currently learning Data Analytics with R
-🎯 Goals: Get a Part-Time Job
-🎲 Fun fact: I spend my free time researching opportunities on job boards.
+📚 I'm currently learning open source and uses of github
+🎯 Goals: reading articles 
