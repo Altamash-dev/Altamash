@@ -1,5 +1,5 @@
 ### About me
 
-Myself Altamash & i hate working on sundays
-
-Linux :love_you_gesture:
+## Myself Altamash, CS student 
+&
+At present Learning linux to see the Otherworld of rice.
